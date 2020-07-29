@@ -1,4 +1,4 @@
-# QrKodYoklamaSistemi
+# Qr Kod Yoklama Sistemi
 Android Studio<br>
 Google Firebase<br>
 <b>Öğrenciler için Qr Kod İle Yoklama Sistemi</b><br>
